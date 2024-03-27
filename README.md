@@ -1,2 +1,1 @@
-# go_tutorial
-Go Programming Language Tutorial
+# Go Programming Language Tutorial
