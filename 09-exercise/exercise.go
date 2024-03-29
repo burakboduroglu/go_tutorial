@@ -43,3 +43,14 @@ func main(){
 	fmt.Println("Ratio: ", ratio)
 	fmt.Println("Profit: ", profit)
 }
+
+/*
+	Output:
+		Revenue: 1000
+		Expenses: 500
+		Tax Rate: 20
+		*************
+		EBT:  500
+		Ratio:  1.25
+		Profit:  400
+*/
